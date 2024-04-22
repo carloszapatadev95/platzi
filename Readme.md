@@ -20,9 +20,9 @@
    ![alt text](./img/nav8.png).
 6. insertamos elementos para crear scroll y hacer pruebas de navegacion desde la barra de navegacion.
    ![alt text](./img/nav9.png).
-7. le damos un poco de animacion cambiando el color de los link de atraves de pseudo hover desde el head del documento atraves del tag 
-   style.
-   ![alt text](./img/nav10.png).
+7. le damos un poco de animacion cambiando el color de los link de atraves de pseudoclase hover desde el head del documento atraves del tag style.
+
+    ![alt text](./img/nav10.png).
 
 # y como resultado 
    ![alt text](./img/resultado.png).
